@@ -17,6 +17,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/zesheng/Desktop/CZ2006 - Software Engineering/Project/BTO In-Sight/WebContent/WEB-INF/lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="BTO/WebContent/WEB-INF/lib/jackson-all-1.9.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
